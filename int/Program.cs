@@ -20,6 +20,7 @@ if (Answer1 == "3")
     Console.WriteLine("Of course you are!");
     Console.WriteLine("What is 16 + 20?");
     
+    
     string Answer2 = Console.ReadLine();
     if (Answer2 == "36")
     {
